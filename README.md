@@ -39,5 +39,12 @@ The project follows a 4-tier architecture:
 • Hibernate Framework
 
 • Javax Servlet
+# Instructions to run my project
+(You need MySQL, TomCat v.9.0.71)
 
-
+- Clone the project from GitHub;
+- Open file src/main/resources/db.properties and fill form with your configuration parameters; After that hibernate build storage in your mentioned place.
+- In src/main/java/cinema/config/DataInitializer.java we set test user with administrating permissions. Recommend to change it with your own.
+- Set connection with DB by editing ConnectionUtil;
+- Set TomCat;
+- Run TomCat and enter your email and password.
