@@ -23,3 +23,4 @@ The project follows a 4-tier architecture:
 3.Presentation Tier: This tier is responsible for handling user interactions and presenting the data to the user. It is implemented using Controllers and JSP pages.
 
 4.Security Tier: This tier is responsible for securing the application and handling user authentication and authorization. It is implemented using Spring Security.
+# TECHNOLOGIES
