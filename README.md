@@ -34,11 +34,19 @@ The project follows a 4-tier architecture:
 
 • MySQL
 
-• Spring Framework
+• Spring MVC
+
+• Spring Security
 
 • Hibernate Framework
 
 • Javax Servlet
+
+• REST
+
+• JSON
+
+• JACKSON
 # Instructions to run my project
 (You need MySQL, TomCat v.9.0.71)
 
