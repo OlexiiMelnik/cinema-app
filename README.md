@@ -24,3 +24,20 @@ The project follows a 4-tier architecture:
 
 4.Security Tier: This tier is responsible for securing the application and handling user authentication and authorization. It is implemented using Spring Security.
 # TECHNOLOGIES
+• Java 18
+
+• Git
+
+• Apache Maven
+
+• Apache TomCat
+
+• MySQL
+
+• Spring Framework
+
+• Hibernate Framework
+
+• Javax Servlet
+
+
