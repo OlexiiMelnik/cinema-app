@@ -1,3 +1,15 @@
 ﻿# 🎥 CINEMA APP 📽
 # PROJECT DESCRIPTION
 This project was created for people who need help in managing their cinema business. It keeps all the information about cinema halls, movies, movie sessions and customers, who buying tickets.The project helps customers to receive services faster and the owner to manage the cinema in a more balanced and structured manner
+# FEATURES
+- customer registration;
+- customer authentication;
+- roles for administrator and customers (different permissions)
+- created, update and remove movies;
+- created, update and remove movie sessions;
+- created, update and remove customers;
+- display list of all movies;
+- display list of all orders;
+- display list of all cinema halls;
+- give all info about orders by user;
+- give all info about active movie sessions on requirement date.
