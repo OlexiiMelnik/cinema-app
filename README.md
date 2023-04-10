@@ -13,7 +13,7 @@ This project was created for people who need help in managing their cinema busin
 - display list of all cinema halls;
 - give all info about orders by user;
 - give all info about active movie sessions on requirement date.
-# PROJECT STRUCTURE
+# PROJECT STRUCTURE🛠
 The project follows a 4-tier architecture:
 
 1.Data Access Tier: This tier is responsible for handling data storage and retrieval. It is implemented using Data Access Objects (DAO).
