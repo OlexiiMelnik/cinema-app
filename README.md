@@ -13,3 +13,13 @@ This project was created for people who need help in managing their cinema busin
 - display list of all cinema halls;
 - give all info about orders by user;
 - give all info about active movie sessions on requirement date.
+# PROJECT STRUCTURE
+The project follows a 4-tier architecture:
+
+1.Data Access Tier: This tier is responsible for handling data storage and retrieval. It is implemented using Data Access Objects (DAO).
+
+2.Service Tier: This tier is responsible for implementing business logic and processing data received from the Data Access Tier. It is implemented using Service classes.
+
+3.Presentation Tier: This tier is responsible for handling user interactions and presenting the data to the user. It is implemented using Controllers and JSP pages.
+
+4.Security Tier: This tier is responsible for securing the application and handling user authentication and authorization. It is implemented using Spring Security.
