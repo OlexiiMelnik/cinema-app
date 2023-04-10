@@ -1,1 +1,2 @@
 ﻿# 🎥 cinema-app 📽
+﻿# PROJECT DESCRIPTION
